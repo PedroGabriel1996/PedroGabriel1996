@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Gabriel, apaixonado por tecnologia.
+## Olá! bem vindo ao meu Github.
 </h3>
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGabriel1996&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
